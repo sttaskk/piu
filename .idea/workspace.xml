@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="015e96c1-719e-445d-8936-3a164322ff30" name="Changes" comment="Сделано задание 2, 3-ей ЛР">
-      <change afterPath="$PROJECT_DIR$/UserAccount.py" afterDir="false" />
+    <list default="true" id="015e96c1-719e-445d-8936-3a164322ff30" name="Changes" comment="Сделано задание 1, 4-ей ЛР">
+      <change afterPath="$PROJECT_DIR$/Vehicle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     "Python.Book.executor": "Run",
     "Python.Circle.executor": "Run",
     "Python.UserAccount.executor": "Run",
+    "Python.Vehicle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -83,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765147540232</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделано задание 1, 4-ей ЛР">
+      <option name="closed" value="true" />
+      <created>1765150396719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765150396719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделано задание 1, 3-ей ЛР" />
     <MESSAGE value="Сделано задание 2, 3-ей ЛР" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделано задание 2, 3-ей ЛР" />
+    <MESSAGE value="Сделано задание 1, 4-ей ЛР" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано задание 1, 4-ей ЛР" />
   </component>
 </project>
